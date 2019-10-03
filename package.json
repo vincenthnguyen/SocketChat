@@ -1,0 +1,11 @@
+{
+  "name": "socket-chat",
+  "version": "0.0.1",
+  "description": "My first socket.io app",
+  "author": "vinh nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
